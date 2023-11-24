@@ -5,3 +5,6 @@ Password Generator Tool
 ```
 https://teamclayhacker.github.io/pgen/
 ```
+
+# OPEN
+```open The pgen.exe file ```
